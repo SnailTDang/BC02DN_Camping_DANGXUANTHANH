@@ -142,38 +142,38 @@ header {
     background-color: #f8e1db;
 }
 
-#contract {
+#contact {
     background-image: url('../Image/mask.png');
     background-repeat: no-repeat;
     background-size: contain;
-    background-position: left -405px top 0px;   background-color: #f8e1db;
+    background-position: left 0 top 0px;   background-color: #f8e1db;
 }
 
-/* .contract-container {
+/* .contact-container {
     
 } */
 
-.contract-img {
+.contact-img {
     float: left;
     padding: 40px 0;
 }
 
-.contract-container h2 {
+.contact-container h2 {
     margin-bottom: 20px;
 }
 
-.contract-content {
+.contact-content {
     width: 50%;
     float: right;
     padding: 110px 0;
 }
 
-.contract-heading {
+.contact-heading {
     font-size: 30px;
     margin-bottom: 15px;
 }
 
-.contract-footer {
+.contact-footer {
     margin-top: 20px;
 }
 
@@ -217,7 +217,7 @@ footer{
     width: 20%;
 }
 
-.footer-contract {
+.footer-contact {
     float: left;
     width: 20%;
 
